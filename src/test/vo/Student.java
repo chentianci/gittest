@@ -7,7 +7,7 @@ public class Student extends Person {
 
 //	@Override
 	public void working() {
-//		super.working();
+		super.working();
 		System.out.println("student正在写作业...");
 	}
 	
