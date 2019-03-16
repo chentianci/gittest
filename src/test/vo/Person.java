@@ -3,7 +3,7 @@ package test.vo;
 public class Person implements Cloneable{
 
 	public String name = "Person";
-	public int age;
+	public int age = 18;
 	
 	public void working() {
 		System.out.println("person正在工作...");
